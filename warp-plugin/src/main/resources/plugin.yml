@@ -1,0 +1,8 @@
+name: LobbyTP
+version: ${project.version}
+main: de.florian.warp.main.WarpMain
+api-version: 1.17
+authors: [ Flo ]
+commands:
+  warp:
+    description: Warp
